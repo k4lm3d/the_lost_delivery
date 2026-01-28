@@ -26,3 +26,5 @@ For inquiries, collaboration, or playtesting, contact via [Email](mailto:kalmedk
 Copyright © 2026 K4LM3D. Made with ♡
 
 **THIS IS A FAN-MADE PROJECT AND NOT AFFILIATED WITH PEEKAPHONE.**
+
+<small>PeekAPhone's [Privacy Policy](https://faintlines.com/privacy) and [Terms of Use](https://faintlines.com/termsofuse)</small>
