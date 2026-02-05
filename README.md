@@ -2,6 +2,8 @@
 
 > Mission Status: **Under Development**
 
+![Work In Progress](workinprogress.jpg)
+
 ## Case Brief
 
 **The Lost Delivery** is a custom mission for [PeekAPhone](https://peekaphone.com) made by [K4LM3D](https://kalmed.localplayer.dev).
